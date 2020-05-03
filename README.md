@@ -1,2 +1,13 @@
 # leetcode_collection
 collection repo for my leetcode solutions
+
+- https://github.com/hlltarakci/leetcode_practices_collection_easy
+- https://github.com/hlltarakci/leetcode_practices_learncard_arrays101
+- https://github.com/hlltarakci/leetcode_practices_collection_medium
+- https://github.com/hlltarakci/leetcode_practices_learncard_binarytree
+- https://github.com/hlltarakci/leetcode_practices_learncard_linkedlist
+- https://github.com/hlltarakci/leetcode_practices_learncard_arrayandstring
+- https://github.com/hlltarakci/leetcode_practices_random
+
+
+My Java8 cheatsheet: https://github.com/hlltarakci/clear_tech_gap/blob/master/java8/README.md
