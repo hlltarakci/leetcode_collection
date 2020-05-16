@@ -10,7 +10,8 @@ collection repo for my leetcode solutions
 - https://github.com/hlltarakci/leetcode_practices_learncard_queue_stack --> 100% done
 - https://github.com/hlltarakci/leetcode_practices_learncard_binarysearchtree --> 100% done
 - https://github.com/hlltarakci/leetcode_practices_learncard_narytree --> 100% done
-- https://github.com/hlltarakci/leetcode_practices_learncard_trie --> ..in progress..
+- https://github.com/hlltarakci/leetcode_practices_learncard_trie --> 100% done
+- https://github.com/hlltarakci/leetcode_practices_learncard_recursioni --> ..in progress..
 - https://github.com/hlltarakci/leetcode_practices_collection_medium
 - https://github.com/hlltarakci/leetcode_practices_learncard_arrayandstring
 - https://github.com/hlltarakci/leetcode_practices_random (g)
