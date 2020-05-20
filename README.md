@@ -13,9 +13,8 @@ collection repo for my leetcode solutions
 - https://github.com/hlltarakci/leetcode_practices_learncard_trie --> 100% done
 - https://github.com/hlltarakci/leetcode_practices_learncard_recursioni --> 100% done
 - https://github.com/hlltarakci/leetcode_practices_learncard_recursionii --> 100% done
-- https://github.com/hlltarakci/leetcode_practices_learncard_decision_tree --> ..in progress..
+- https://github.com/hlltarakci/leetcode_practices_learncard_arrayandstring --> ..in progress..
 - https://github.com/hlltarakci/leetcode_practices_collection_medium
-- https://github.com/hlltarakci/leetcode_practices_learncard_arrayandstring
 - https://github.com/hlltarakci/leetcode_practices_random (g)
 
 
