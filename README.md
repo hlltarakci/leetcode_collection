@@ -18,6 +18,7 @@ collection repo for my leetcode solutions
 ## others
 - https://github.com/hlltarakci/leetcode_practices_collection_easy --> 100% done
 - https://github.com/hlltarakci/leetcode_practices_collection_medium
+- https://leetcode.com/list/xoqag3yj/
 - https://github.com/hlltarakci/leetcode_practices_random (g)
 
 
