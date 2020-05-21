@@ -19,6 +19,7 @@ collection repo for my leetcode solutions
 - https://github.com/hlltarakci/leetcode_practices_collection_easy --> 100% done
 - https://github.com/hlltarakci/leetcode_practices_collection_medium
 - https://leetcode.com/list/xoqag3yj/
+- https://leetcode.com/problems/permutations/discuss/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partioning)
 - https://github.com/hlltarakci/leetcode_practices_random (g)
 
 
